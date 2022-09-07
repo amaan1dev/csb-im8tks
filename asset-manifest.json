@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amaan1dev.github.io/csb-im8tks/static/css/main.3a704fa1.chunk.css",
+    "main.js": "https://amaan1dev.github.io/csb-im8tks/static/js/main.c7511ccc.chunk.js",
+    "main.js.map": "https://amaan1dev.github.io/csb-im8tks/static/js/main.c7511ccc.chunk.js.map",
+    "runtime-main.js": "https://amaan1dev.github.io/csb-im8tks/static/js/runtime-main.10dcc25d.js",
+    "runtime-main.js.map": "https://amaan1dev.github.io/csb-im8tks/static/js/runtime-main.10dcc25d.js.map",
+    "static/js/2.247c4692.chunk.js": "https://amaan1dev.github.io/csb-im8tks/static/js/2.247c4692.chunk.js",
+    "static/js/2.247c4692.chunk.js.map": "https://amaan1dev.github.io/csb-im8tks/static/js/2.247c4692.chunk.js.map",
+    "index.html": "https://amaan1dev.github.io/csb-im8tks/index.html",
+    "static/css/main.3a704fa1.chunk.css.map": "https://amaan1dev.github.io/csb-im8tks/static/css/main.3a704fa1.chunk.css.map",
+    "static/js/2.247c4692.chunk.js.LICENSE.txt": "https://amaan1dev.github.io/csb-im8tks/static/js/2.247c4692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10dcc25d.js",
+    "static/js/2.247c4692.chunk.js",
+    "static/css/main.3a704fa1.chunk.css",
+    "static/js/main.c7511ccc.chunk.js"
+  ]
+}
